@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prateek-Giree
 - 👀 I’m interested in AI and Machine learning
-- 🌱 I’m currently learning C programming
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
