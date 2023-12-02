@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prateek-Giree
-- 👀 I’m interested in AI and Machine learning
+- 👀 I’m interested in Backend
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
